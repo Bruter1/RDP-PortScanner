@@ -1,6 +1,6 @@
 RDP PortScanner coded z668
 
-Download: https://u.pcloud.link/publink/show?code=XZFzEL5ZRHePyGy1gGhBrQaERYCR28n9w5TX
+Download: https://krakenfiles.com/view/opw4cGKx2v/file.html
 
 Password: rdpportscanner
 
